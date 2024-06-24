@@ -20,6 +20,7 @@ function App() {
         <h1>Hello my team</h1>
         <h2>Tung da vao</h2>
         <h2>Thu lan 2</h2>
+        <h2>Thien da vaooo </h2>
       </header>
     </div>
   );
